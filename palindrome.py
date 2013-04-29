@@ -1,4 +1,4 @@
-# This program takes a string as an argument and tests to see if it is a palindrome. Capitalization does not metter.
+# This program takes a string as an argument and tests to see if it is a palindrome. Capitalization does not matter.
 
 def is_palindrome(string):
     letter_list = string.lower() #make string lowercase
